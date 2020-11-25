@@ -1,10 +1,11 @@
 package com.basamad.bahamin;
 
 public class UserVerify {
-    String userName;
-    String userID;
-    String userPassword;
-    String userEmail;
-    String userPhoneNumber;
+    public String userName;
+    public String userID;
+    public String userPassword;
+    public String userEmail;
+    public String userPhoneNumber;
+
 
 }
